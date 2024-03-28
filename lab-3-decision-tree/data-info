@@ -1,0 +1,17 @@
+This data set contains information of cars purchased at the Auction.
+We will use this file to predict the quality of buying decisions and visualize decision processes.
+
+VARIABLE DESCRIPTIONS:
+Auction: Auction provider at which the vehicle was purchased
+Color: Vehicle Color
+IsBadBuy: Identifies if the kicked vehicle was an avoidable purchase
+MMRCurrentAuctionAveragePrice: Acquisition price for this vehicle in average condition as of current day
+Size: The size category of the vehicle (Compact, SUV, etc.)
+TopThreeAmericanName:Identifies if the manufacturer is one of the top three American manufacturers
+VehBCost: Acquisition cost paid for the vehicle at time of purchase
+VehicleAge: The Years elapsed since the manufacturer's year
+VehOdo: The vehicles odometer reading
+WarrantyCost: Warranty price (term=36month and millage=36K)
+WheelType: The vehicle wheel type description (Alloy, Covers)
+
+Target variable: IsBadBuy
