@@ -1,0 +1,11 @@
+In this lab, we will first build recommender systems based on movie rating data. We then perform social network analysis based on a small Facebook data.
+
+Part 1: Recommender Systems
+We will use the MovieLense data set (downloaded from http://www.grouplens.org/), which contains around 100,000 ratings (1-5) from 943 users on 1682 movies.
+
+In this MovieLense data set, each row corresponds to a user, and each column corresponds to a movie.
+
+Part 2: Social Network Analysis
+We will use a small Facebook data from stanford network analysis project: https://snap.stanford.edu/data/ego-Facebook.html.
+
+The social network is stored by an edgelist.                                
