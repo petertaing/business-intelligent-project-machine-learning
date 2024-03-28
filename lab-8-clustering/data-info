@@ -1,0 +1,42 @@
+You have been given a data file by the San Francisco Bay Area Rapid Transit (BART), which identifies a set of demographics for residents in a local area. We will use this file to determine residents segmentations so that we can use it to develop marketing plans accordingly.
+
+VARIABLE DESCRIPTIONS:
+
+Age:
+
+        1.   14 thru 17
+        2.   18 thru 24
+        3.   25 thru 34
+        4.   35 thru 44
+        5.   45 thru 54
+        6.   55 thru 64
+        7.   65 and Over
+
+DistToWork: Distance to work in miles
+DualInc: Is dual income household or not
+Education:
+
+        1. Grade 8 or less<br>
+        2. Grades 9 to 11<br>
+        3. Graduated high school<br>
+        4. 1 to 3 years of college<br>
+        5. College graduate<br>
+        6. Grad Study<br>
+Gender: M or F
+Income:
+
+        1. Less than $10,000<br>
+        2. $10,000 to $14,999<br>
+        3. $15,000 to $19,999<br>
+        4. $20,000 to $24,999<br>
+        5. $25,000 to $29,999<br>
+        6. $30,000 to $39,999<br>
+        7. $40,000 to $49,999<br>
+        8. $50,000 to $74,999<br>
+        9. $75,000 or more<br>
+Language: Language spoken at home
+NbrInHouseHold: Number in household
+NbrInHouseholdUnder18: Number in household under 18 years old
+OwnRent: Own, rent, or live with parents
+YrsInArea: Years lived in bay area
+Rider: No, Non-rider; Yes, Rider
