@@ -9,7 +9,7 @@ and much, much more. This course introduces theories, techniques, and applicatio
 intelligence, data mining, and business analytics. Topics include classification, numeric prediction,
 clustering, association rule mining, recommender system, and social network analysis.
 
-By completing these projects, I learn (1) basic concepts, fundamental information theories and methodologies in
+By completing these projects, I learned (1) basic concepts, fundamental information theories and methodologies in
 business intelligence, (2) core techniques/algorithms for data analytics, including classification,
 prediction, clustering, association rule mining and advanced data mining techniques, and (3) hands
 on practices of major data mining techniques with real-world business applications. This is
